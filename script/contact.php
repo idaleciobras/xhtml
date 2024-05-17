@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: Archia - Architecture & Interior HTML Templates
+Template Name: Arte Digitals
 
 Variable
 	$recaptchaSecret : Recaptcha Secret Key

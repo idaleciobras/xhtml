@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: Archia - Architecture & Interior HTML Template
+Template Name: Arte Digital
 
 Variable
 	$apiKey : Mail Champ Api
